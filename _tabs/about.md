@@ -10,5 +10,5 @@ This blog serves as a place to document my journey into malware analysis and rev
 
 ---
 # Contact me
-<img src="https://img.icons8.com/ios-filled/20/5865F2/discord-logo.png" alt="Discord" style="vertical-align: middle; position: relative; top: -2px; margin-right: 6px;"/> **Discord:** joakj.
+<img src="https://img.icons8.com/ios-filled/20/5865F2/discord-logo.png" alt="Discord" style="vertical-align: middle; position: relative; top: -6px; margin-right: 6px;"/> **Discord:** joakj.
 
