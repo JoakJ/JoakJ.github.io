@@ -12,6 +12,6 @@ Thanks for reading and make sure to check out my [posts](https://joakj.github.io
 
 ---
 # Contact me
-- **Discord:** joakj.
+- __Discord:__ joakj.
 ---
 
